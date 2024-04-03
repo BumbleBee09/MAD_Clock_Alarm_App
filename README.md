@@ -1,6 +1,6 @@
-# Clockee -- Flutter Clock and Alarm app
+# Miss Minutes -- Flutter Clock and Alarm app
 
-A minimalistic flutter clock and alarm app based on an idea from [@NoMad](https://devrant.com/users/NoMad) which can be found [here.](https://devrant.com/rants/3708896/i-have-an-android-app-suggestion-a-different-alarm-clock-wakes-you-up-by-increas)
+A minimalistic flutter clock and alarm app
 
 ### Unique Features
 
@@ -16,11 +16,7 @@ A minimalistic flutter clock and alarm app based on an idea from [@NoMad](https:
 
 - Alarm on iOS: Similar to Android 10+, we can't bring the app to foreground when not active without the user's action. It's fine to go with notification as a mode of alert also but like we've noticed, most of the app features (i.e play from stream, progressive sound, etc.) would not be feasible since we are playing sound from a notification context.
 
-Implementation of the notification option is in progress but if you have an idea or possible workaround asides this method. Please feel free to add them as comments [on here.](https://devrant.com/rants/3708896/i-have-an-android-app-suggestion-a-different-alarm-clock-wakes-you-up-by-increas)
-
-You can join the development by submitting a clean pull request.
-
-[Download APK sample here](sample/)
+Implementation of the notification option is in progress.
 
 <a target="_blank" rel="noopener noreferrer" href="sample/clockee.jpg"><img src="sample/clockee.jpg" alt="Clockee App screenshot 1" title="Screenshot" style="max-width:100%;"></a>
 
