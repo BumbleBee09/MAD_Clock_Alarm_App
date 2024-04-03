@@ -18,10 +18,10 @@ A minimalistic flutter clock and alarm app
 
 Implementation of the notification option is in progress.
 
-<a target="_blank" rel="noopener noreferrer" href="sample/clockee.jpg"><img src="sample/clockee.jpg" alt="Clockee App screenshot 1" title="Screenshot" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="sample/miss_minutes.jpg"><img src="sample/miss_minutes.jpg" alt="miss_minutes App screenshot 1" title="Screenshot" style="max-width:100%;"></a>
 
 
-<a target="_blank" rel="noopener noreferrer" href="sample/clockee_feats.jpg"><img src="sample/clockee_feats.jpg" alt="Clockee App screenshot 2" title="Screenshot" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="sample/miss_minutes_feats.jpg"><img src="sample/miss_minutes_feats.jpg" alt="miss_minutes App screenshot 2" title="Screenshot" style="max-width:100%;"></a>
 
 ## Getting Started
 
